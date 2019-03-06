@@ -1,3 +1,7 @@
 .test-input{
 	background-color: red;
 }
+.loginBox {
+  max-width:  90%;
+  width: 500px
+}

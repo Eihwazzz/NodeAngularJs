@@ -1,6 +1,7 @@
 var app = angular.module('httpProviderApp',
 	[
-		"ngRoute"
+		"ngRoute",
+		"ngMaterial"
 	]);
 
 app.config(function($routeProvider){
